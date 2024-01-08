@@ -19,7 +19,7 @@
 
 Jika Anda memilih menggunakan AI, cukup copy cookie "__Secure-1PSID" & "__Secure-1PSIDTS" untuk memulai.
 
-## Persyaratan Sistem:
+## Pengujian:
 
-Pastikan bahwa Anda telah memenuhi semua persyaratan sistem yang diperlukan sebelum menjalankan bot ini.
+Untuk menguji apakah bot berhasi silahkan tes di contoh soal
 
