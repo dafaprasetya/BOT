@@ -1,3 +1,2 @@
-pip install selenium
-pip instal bardapi
+pip install selenium, plyer, bardapi
 python Main.py
