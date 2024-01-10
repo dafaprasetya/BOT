@@ -1,2 +1,2 @@
-python -m pip install selenium, plyer, bardapi
+python -m pip install -r requirements.txt
 python Main.py
