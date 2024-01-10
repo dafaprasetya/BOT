@@ -1,0 +1,5 @@
+bardapi==0.1.38
+plyer==2.1.0
+selenium==4.8.2
+webdriver-manager==4.0.1
+keyboard
